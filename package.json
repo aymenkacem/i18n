@@ -88,7 +88,7 @@
     "klona": "^2.0.6",
     "lodash.merge": "^4.6.2",
     "ufo": "^1.3.2",
-    "vue-i18n": "^8.28.2"
+    "vue-i18n": "https://registry.yarnpkg.com/vue-i18n-custom/-/vue-i18n-custom-8.28.2.tgz"
   },
   "devDependencies": {
     "@nuxt/types": "2.17.3",
