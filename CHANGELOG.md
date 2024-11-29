@@ -1,5 +1,7 @@
 
 
+## [7.3.4](https://github.com/nuxt-community/i18n-module/compare/v7.3.2...v7.3.4) (2024-11-29)
+
 ## [7.3.2](https://github.com/nuxt-community/i18n-module/compare/v7.3.1...v7.3.2) (2024-11-29)
 
 ## [7.3.1](https://github.com/nuxt-community/i18n-module/compare/v7.3.0...v7.3.1) (2024-11-28)
